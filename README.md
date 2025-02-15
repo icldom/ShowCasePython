@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/icldom/ShowcasePython](https://github.com/icldom/ShowCasePython)
 
 
-- 📫 How to reach me: \n**sepesidominik@icloud.com**
+- 📫 How to reach me: **sepesidominik@icloud.com**
 
 
 - ⚡ Fun fact **I love coffee, in my veins**
